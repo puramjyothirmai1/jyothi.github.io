@@ -81,7 +81,6 @@ export function Contact() {
         </Card>
 
         <footer className="mt-16 text-center text-sm text-muted-foreground">
-          <p>© 2025 Jyothirmai Puram. All rights reserved.</p>
         </footer>
       </div>
     </section>

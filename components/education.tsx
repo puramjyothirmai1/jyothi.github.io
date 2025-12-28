@@ -9,6 +9,7 @@ const education = [
     gpa: "4.0/4.0",
     courses: [
       "Reinforcement Learning",
+      "Advanced Algorithms",
       "Advanced NLP",
       "Neural Networks",
       "Data Science",
@@ -32,6 +33,8 @@ const education = [
       "Discrete Math",
       "Statistics and Probability",
       "Compiler Design",
+      "Computer Architecture",
+      "Machine Learning",
     ],
   },
 ]
