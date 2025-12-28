@@ -11,23 +11,9 @@ export const metadata: Metadata = {
   title: "Jyothirmai Puram - Software Engineer & ML Engineer",
   description:
     "Portfolio of Jyothirmai Puram - Software Engineer specializing in Machine Learning, Data Science, and Full-Stack Development",
-  generator: "v0.app",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/favicon.svg",
+    apple: "/favicon.svg",
   },
 }
 
